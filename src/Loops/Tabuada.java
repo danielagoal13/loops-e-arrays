@@ -6,8 +6,8 @@ public class Tabuada {
       public static void main(String[] args){
         Scanner scan = new Scanner(System.in);
 
-    int multiplicador;
-    int resultado;
+        int multiplicador;
+        int resultado;
       
         System.out.print("Digite o número do multiplicador da tabuada desejada: ");
                 multiplicador = scan.nextInt();
